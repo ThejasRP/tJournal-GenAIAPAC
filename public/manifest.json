@@ -1,0 +1,17 @@
+{
+  "name": "tJournal AI",
+  "short_name": "tJournal",
+  "description": "Your AI-powered ghostwriter and journaling assistant.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#DC143C",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
